@@ -1,5 +1,5 @@
 # Chenxuanyin Zou
-This is Chenxuanyin Zou's personal [homepage](https://zcxyubc.github.io/zcxyUBC/).
+This is Chenxuanyin Zou's personal [homepage](https://zcxyubc.github.io/ChenxuanyinZou/).
 
 ## Introduction
 Welcome! My name is Zou Chenxuanyin, and I am a PhD student in the Chemical and Biological Engineering Department at University of British Columnbia, Vancouver, BC, Canada. 
@@ -17,4 +17,5 @@ PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise in modeling industrial processes. 
 * Strong optimization foundations with a good sense of teamwork.
 * Programming Skills: Julia, Matlab, Pythion, C.
+
 
