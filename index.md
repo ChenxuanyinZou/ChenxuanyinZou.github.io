@@ -24,7 +24,9 @@ My research interests focus on Optimization and Process Control. Specifically, I
 The goal of my research is to develop efficient algorithms for Machine Learning models and design effective control methods for complicated nonlinear systems. Feel free to see my [CV](https://ChenxuanyinZou.github.io/ChenxuanyinZou/CV.pdf) to learn more!
 
 
-
-
-
+Contact Me
+======
+&nbsp;&nbsp; Chemical & Biological Engineering\\
+&nbsp;&nbsp; 2360 East Mal\\
+&nbsp;&nbsp; Vancouver, BC Canada V6T 1Z3
 
