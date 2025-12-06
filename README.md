@@ -1,10 +1,18 @@
+<!--
+ * @Author: zcxyUBC zcxy0218@gmail.com
+ * @Date: 2025-12-05 22:44:32
+ * @LastEditors: zcxyUBC zcxy0218@gmail.com
+ * @LastEditTime: 2025-12-05 22:45:11
+ * @FilePath: /ChenxuanyinZou/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Chenxuanyin Zou
 This is Chenxuanyin Zou's personal [homepage](https://ChenxuanyinZou.github.io/ChenxuanyinZou/).
 
 ## Introduction
 Welcome! My name is Zou Chenxuanyin, and I am a PhD student in the Chemical and Biological Engineering Department at University of British Columnbia, Vancouver, BC, Canada. 
 
-My research interests focus on multiobjective optimization, semi-infinite programming, and optimal control. I am devoted to handling multiobjective optimization problems with inequality path constraints in non-linear dynamic systems. Furthermore, I have a broad knowledge of multiobjective methods. I am currently trying to incorporate parallel and distributed computation into my research to intensify the power of algorithms to solve large-scale and complicated problems and improve efficiency. Feel free to look at [My Research](https://ChenxuanyinZou.github.io/ChenxuanyinZou/research) to learn more!
+My research interests focus on multiobjective optimization, semi-infinite programming, and optimal control. I am devoted to handling multiobjective optimization problems with inequality path constraints in non-linear dynamic systems. Furthermore, I have a broad knowledge of multiobjective methods. I am currently trying to incorporate parallel and distributed computation into my research to intensify the power of algorithms to solve large-scale and complicated problems and improve efficiency. 
 
 
 ## Education
