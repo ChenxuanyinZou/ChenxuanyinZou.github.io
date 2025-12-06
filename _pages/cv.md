@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical and Biological Engineering, University of Britsh Columbia, 2028 (expected)
+* M.S. in Control Theory and Control Engineering, Northeastern University, 2023
+* B.S. in Automation, Northeastern University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Teaching Assistant
+  * University of Britsh Columbia
+  * Duties include: leading tutorials, holding office hours, and grading
+  * Supervisor: Yankai Cao
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Research Assistant
+  * University of Britsh Columbia
+  * Duties includes: do some numerical experiments
+  * Supervisor: Yankai Cao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program: Julia, Python, Matlab
+
 
 Publications
 ======
@@ -53,11 +44,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======

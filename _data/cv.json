@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Chenxuanyin Zou",
+    "email": "zcxy@mail.ubc.ca",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ChenxuanyinZou.github.io",
+    "summary": "PhD student at University of British Columbia.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "vancouver",
+      "countryCode": "Canada",
       "region": ""
     },
     "profiles": [
@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "University of British Columbia",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Northeastern University",
+      "area": "M.S. in Control Theory and Control Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Northeastern University",
+      "area": "B.S. in Automation",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
