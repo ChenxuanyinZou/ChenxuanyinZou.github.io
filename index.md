@@ -9,19 +9,18 @@ redirect_from:
 
 
 
-Hi there, welcome to my homepage! I’m Chenxuanyin Zou. I am currently a PhD student in the Department of Chemical and Biological Engineering at the University of British Columbia (UBC), supervised by [Prof. Yankai Cao](https://chbe.ubc.ca/yankai-cao/). I also serve as a teaching assistant for [CHBE 356](https://vancouver.calendar.ubc.ca/course-descriptions/courses/chbev-356-process-dynamics-and-control) (since 2025). I previously completed my Master’s degree in Control Theory and Control Engineering at Northeastern University (2020.09–2023.07), where I also received my Bachelor’s degree (2016.09–2020.06).
+Hi there, welcome to my homepage! I’m Chenxuanyin Zou. I am currently a PhD student in the Department of Chemical and Biological Engineering at the University of British Columbia (UBC), supervised by [Prof. Yankai Cao](https://chbe.ubc.ca/yankai-cao/). I also serve as a teaching assistant for [CHBE 356](https://vancouver.calendar.ubc.ca/course-descriptions/courses/chbev-356-process-dynamics-and-control) (since 2025). I previously completed my Master’s degree in Control Theory and Control Engineering at Northeastern University (2020.09–2023.07), where I also received my Bachelor’s degree (2016.09–2020.06). Feel free to see my [CV](https://ChenxuanyinZou.github.io/ChenxuanyinZou/CV.pdf) to learn more!
 
 
 Research Interests
 ======
-
-My research interests focus on Optimization and Process Control. Specifically, I work on:
-
+The goal of my research is to develop efficient algorithms for Machine Learning models and to design effective control methods for complex nonlinear systems. My work centers on **Optimization** and **Process Control**, with a focus on:
 - Mixed-integer programming for training decision tree models
 - Multi-objective optimization for continuous problems
-- Optimal control for nonlinear systems with path constraints
+- Optimal control of nonlinear systems with path constraints
 
-The goal of my research is to develop efficient algorithms for Machine Learning models and design effective control methods for complicated nonlinear systems. Feel free to see my [CV](https://ChenxuanyinZou.github.io/ChenxuanyinZou/CV.pdf) to learn more!
+
+
 
 
 Contact Me

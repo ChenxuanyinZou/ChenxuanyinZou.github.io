@@ -7,7 +7,7 @@ excerpt: 'Decision tree, despite its unmatched interpretability and lightweight 
 date: 2025-12-02
 venue: '39th Conference on Neural Information Processing Systems'
 paperurl: 'https://openreview.net/forum?id=F11iEhKoYp'
-citation: 'Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, Yankai Cao.  &quot;Differentiable Decision Tree via ReLU+Argmin Reformulation.&quot; In <i>Advances in Neural Information Processing Systems</i>, volume 39. Curran Associates, Inc., 2025.'
+citation: 'Qiangqiang Mao, Jiayang Ren, Yixiu Wang, Chenxuanyin Zou, Jingjing Zheng, & Yankai Cao.  &quot;Differentiable Decision Tree via ReLU+Argmin Reformulation.&quot; In <i>Advances in Neural Information Processing Systems</i>, volume 39. Curran Associates, Inc., 2025.'
 # Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
 ---
 
