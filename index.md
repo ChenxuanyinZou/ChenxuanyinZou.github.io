@@ -13,10 +13,10 @@ Hi there, welcome to my homepage! I’m Chenxuanyin Zou. I am currently a PhD st
 
 Research Interests
 ======
-The goal of my current research is to develop efficient algorithms for Machine Learning (ML) models, such as decisition tree models (orthogonal, oblique, and robust trees) and clustering models (K-medoids, K-center models), and integrate them to control methods for complex nonlinear systems. My work centers on **Optimization** and **Process Control**, with a focus on:
+My current research focuses on developing efficient algorithms for Machine Learning (ML) architectures, specifically decision trees (orthogonal, oblique, and robust) and clustering models (K-medoids, K-center). A key objective is the integration of these algorithms with control strategies for complex nonlinear systems. My work lies at the intersection of **Optimization** and **Process Control**, specifically addressing:
 - Mixed-integer programming and dynamic programming for training ML models;
 - Deterministic multi-objective optimization methods for continuous problems;
-- Optimal control of nonlinear systems with path constraints guaranteed satisfaction.
+- Optimal control of nonlinear systems with guaranteed constraint satisfaction.
 
 Contact Me
 ======
