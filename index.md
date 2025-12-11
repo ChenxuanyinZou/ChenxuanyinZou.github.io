@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "About me"
@@ -14,7 +15,7 @@ Hi there, welcome to my homepage! I’m Chenxuanyin Zou. I am currently a PhD st
 Research Interests
 ======
 The goal of my research is to develop efficient algorithms for Machine Learning models and to design effective control methods for complex nonlinear systems. My work centers on **Optimization** and **Process Control**, with a focus on:
-- Mixed-integer programming for training decision tree models
+- Mixed-integer programming for training ML models, e.g., decision tree and clustering models
 - Multi-objective optimization for continuous problems
 - Optimal control of nonlinear systems with path constraints
 
