@@ -1,11 +1,4 @@
-<!--
- * @Author: zcxyUBC zcxy0218@gmail.com
- * @Date: 2025-11-28 09:45:09
- * @LastEditors: zcxyUBC zcxy0218@gmail.com
- * @LastEditTime: 2025-12-10 23:08:16
- * @FilePath: /ChenxuanyinZou/_pages/about.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+
 ---
 permalink: /
 title: "About me"
@@ -22,7 +15,7 @@ Hi there, welcome to my homepage! I’m Chenxuanyin Zou. I am currently a PhD st
 Research Interests
 ======
 The goal of my research is to develop efficient algorithms for Machine Learning models and to design effective control methods for complex nonlinear systems. My work centers on **Optimization** and **Process Control**, with a focus on:
-- Mixed-integer programming for training Machine Learning models
+- Mixed-integer programming for training Machine Learning models, such as decision tree and clustering models
 - Multi-objective optimization for continuous problems
 - Optimal control of nonlinear systems with path constraints
 
