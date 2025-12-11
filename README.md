@@ -1,12 +1,4 @@
 
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 
 
@@ -25,7 +17,7 @@ The goal of my research is to develop efficient algorithms for Machine Learning 
 
 Contact Me
 ======
-&nbsp;&nbsp; Chemical & Biological Engineering\\
-&nbsp;&nbsp; 2360 East Mal\\
-&nbsp;&nbsp; Vancouver, BC Canada V6T 1Z3
+Chemical & Biological Engineering\\
+2360 East Mall\\
+Vancouver, BC Canada V6T 1Z3
 
