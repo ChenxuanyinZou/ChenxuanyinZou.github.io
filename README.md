@@ -17,9 +17,7 @@ The goal of my research is to develop efficient algorithms for Machine Learning 
 
 Contact Me
 ======
-&nbsp;&nbsp; Chemical & Biological Engineering
-
-&nbsp;&nbsp; 2360 East Mal
-
+&nbsp;&nbsp; Chemical & Biological Engineering\\
+&nbsp;&nbsp; 2360 East Mall\\
 &nbsp;&nbsp; Vancouver, BC Canada V6T 1Z3
 
