@@ -1,9 +1,4 @@
 
----
-title: "About me"
-author_profile: true
-
----
 
 
 
